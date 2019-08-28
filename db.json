@@ -1,8 +1,20 @@
 {
-  "posts": [
+  "countries": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "UAE"
+    },
+    {
+      "id": 2,
+      "title": "USA"
+    },
+    {
+      "id": 3,
+      "title": "Ireland"
+    },
+    {
+      "id": 4,
+      "title": "India"
     }
   ],
   "profile": {
